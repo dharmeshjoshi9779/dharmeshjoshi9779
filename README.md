@@ -1,6 +1,6 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A5D73,100:C49A6C&height=180&section=header&text=Dharmesh%20Joshi&fontSize=42&fontColor=ffffff&desc=Senior%20Laravel%20%2F%20PHP%20Backend%20Developer&descSize=18&descAlignY=72" alt="Dharmesh Joshi" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A5D73,100:C49A6C&height=200&section=header&text=Dharmesh%20Joshi&fontSize=42&fontColor=ffffff&desc=Senior%20Laravel%20%2F%20PHP%20Backend%20Developer&descSize=18&descAlignY=72" alt="Dharmesh Joshi" />
 </p>
 
 <!-- Typing line -->
